@@ -9,7 +9,7 @@ switch($day)
             echo "tuesday";
             break;
             case "3" :
-                echo "wednsday";
+                echo "wednesday";
                 break;
                 case "4" :
                     echo "thursday";
